@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+        }
+        
+        .converter {
+	margin-top: 20px;
+        }
+        
+        h1 {
+	color: #333;
+        }
+        
+        input[type="number"] {
+	width: 100px;
+	padding: 5px;
+        }
+        
+        button {
+	padding: 5px 10px;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	cursor: pointer;
+        }
+        
+        input[type="text"] {
+	width: 100px;
+	padding: 5px;
+        }
+        
